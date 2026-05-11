@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS addon with top Alfred for macOS Addon | multi-device sync + version history. Featuring multi-device sync and version history, it's the best
 
 
 
